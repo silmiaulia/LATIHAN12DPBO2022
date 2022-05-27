@@ -9,7 +9,7 @@ Program ini menerapkan konsep arsitektur MVP (Model-View-Presenter) menggunakan 
 ### Hasil Program
 
 <p align="left">
-  <img src="https://github.com/silmiaulia/LATIHAN11DPBO2022/blob/main/Screenshot/home.png"/>
+  <img src="https://github.com/silmiaulia/LATIHAN12DPBO2022/blob/main/Screenshot_MVP.png"/>
 </p>
 
 
